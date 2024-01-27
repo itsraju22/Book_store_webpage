@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #1b1b1b;
+    background-size: cover;
+}
+
+.main-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.abdul-card {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+}
+
+.imug-1 {
+    height: 40vh;
+}
+
+.card-1-button {
+    color: #ffffff;
+    background-color: blue;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.card-2-heading {
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.card-2-paragraph {
+    color: #e4e7eb;
+}
+
+.card-2-sub-heading {
+    color: #e4e7eb;
+}
+
+.imug-2 {
+    height: 25vh;
+}
+
+.card-2-button {
+    color: #ffffff;
+    background-color: blue;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.imug-3 {
+    height: 25vh;
+}
+
+.card-3-heading {
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.card-3-paragraph {
+    color: #e4e7eb;
+}
+
+.card-3-sub-heading {
+    color: #e4e7eb;
+}
+
+.card-3-button {
+    color: #ffffff;
+    background-color: blue;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.details-page {
+    text-align: center;
+    background-color: #1b1b1b;
+}
+
+.imug-4 {
+    height: 294px;
+    width: 190px;
+    margin-bottom: 10px;
+}
+
+.card-4-heading {
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.card-4-paragraph {
+    color: #e4e7eb;
+}
+
+.card-4-sub-heading {
+    color: #e4e7eb;
+}
+
+.card-4-button-2 {
+    color: #ffffff;
+    background-color: blue;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.card-4-button-1 {
+    color: #ffffff;
+    background-color: orange;
+    border-radius: 5px;
+    border-width: 0px;
+}
